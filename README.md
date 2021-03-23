@@ -14,6 +14,7 @@ incluyendo:
 * SHA
 * SHA1
 * SHA512
+
 *Asi como cifrar archivos enteros
 
 Entre otros cifrados conocidos..
