@@ -14,6 +14,8 @@ incluyendo:
 * SHA
 * SHA1
 * SHA512
+*Asi como cifrar archivos enteros
+
 Entre otros cifrados conocidos..
 
 install:
@@ -22,12 +24,12 @@ pkg install git
 
 pkg install python
 
-pkg install git
+git clone 
  https://github.com/ch0l0hatwhite/Encrypt
 
 ls
 
-cd Encrypter
+cd Encrypt
 
 ls
 
