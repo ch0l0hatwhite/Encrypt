@@ -22,7 +22,7 @@ pkg install git
 
 pkg install python
 
-pkg install git https://www.github.com/ch0l0hatwhite/Encrypter
+pkg install git https://github.com/ch0l0hatwhite/Encrypt
 
 ls
 
